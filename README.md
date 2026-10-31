@@ -27,4 +27,4 @@ MSc student at **École Polytechnique** and **Université Paris-Saclay**, and en
 - [LinkedIn](https://www.linkedin.com/in/raphael-seran)
 - Email: **raphael.seran@ip-paris.fr**
 
-*Some repositories are technical case studies rather than open-source releases (RNA, Continual Learning and evo). Research results come from original project material and have not been rerun for this portfolio. Repository links become active once published.*
+*Some repositories are technical case studies rather than open-source releases (RNA, Continual Learning and evo). Research results come from original project material and have not been rerun for this portfolio.*
