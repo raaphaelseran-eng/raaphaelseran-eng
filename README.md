@@ -4,7 +4,7 @@
 
 MSc student at **École Polytechnique** and **Université Paris-Saclay**, and engineering student at **Télécom SudParis**. I enjoy building rigorous ML experiments—from spectral representations of RNA sequences to continual learning—and turning ideas into usable software products.
 
-📍 France · 🌍 English / French · 🎓 **Seeking a 6-month final-year internship from February/March 2027**
+📍 Paris, France · 🌍 English / French / Spanish · 🎓 **Seeking a 6-month final-year internship from February/March 2027**
 
 ## Selected projects
 
